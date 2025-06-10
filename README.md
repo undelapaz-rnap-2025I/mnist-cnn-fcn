@@ -16,7 +16,7 @@ Cargar los datos usando `DataLoader` para manejar los lotes (batches) como en la
 
 ---
 
-### 2. 🧠 Definición de modelos
+### 2. Definición de modelos
 
 Implementa dos modelos con las siguientes características:
 
